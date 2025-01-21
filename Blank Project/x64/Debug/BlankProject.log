@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  Renderer.cpp
+D:\Projects\Computer Game Engineering - Newcastle\CSC8502\CSC8502 2024\Blank Project\src\Renderer.cpp(684,20): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Computer Game Engineering - Newcastle\CSC8502\CSC8502 2024\Blank Project\src\Renderer.cpp(682,20): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Computer Game Engineering - Newcastle\CSC8502\CSC8502 2024\Blank Project\src\Renderer.cpp(1117,48): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Projects\Computer Game Engineering - Newcastle\CSC8502\CSC8502 2024\Blank Project\src\Renderer.cpp(1360,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Computer Game Engineering - Newcastle\CSC8502\CSC8502 2024\Blank Project\src\Renderer.cpp(1368,106): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...
+  BlankProject.vcxproj -> D:\Projects\Computer Game Engineering - Newcastle\CSC8502\CSC8502 2024\x64\Debug\MarsProject.exe

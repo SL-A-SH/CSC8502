@@ -1,0 +1,8 @@
+﻿  Renderer.cpp
+  Tutorial13.cpp
+  Generating Code...
+nclgl.lib(SOIL.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(SOIL.obj)' or at ''; linking object as if no debug info
+nclgl.lib(stb_image_aug.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(stb_image_aug.obj)' or at ''; linking object as if no debug info
+nclgl.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(image_helper.obj)' or at ''; linking object as if no debug info
+nclgl.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+  Tutorial13.vcxproj -> D:\Projects\Computer Game Engineering - Newcastle\CSC8502\CSC8502 2024\x64\Debug\Tutorial 13 - Cube Mapping.exe
